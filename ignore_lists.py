@@ -38,7 +38,8 @@ ignore_sellers = {"de vinylloods", "Who's Your Daddy Records", "Concerto Records
                   "LP Verzameling", "Moshover", "k sauer", "Disc-records+vintage", "NOT DEAD ENOUGH", " More4Less",
                   "U2stay", "Chris", "Into It Records", "nicko-v", "Pieter Vermaas", "Vinyl & Munten", "adriaan",
                   "Qwen", "Nooddienst 24/7", "The Collector", "lisa", "Platen en Co.", "nienke en wullum",
-                  "Plaatwerk Design", "Cassette Digitalisatie"
+                  "Plaatwerk Design", "Cassette Digitalisatie", "vinylliefhebber",
+
                   }
 
 ignore_artists = {"beatles", "vannelli", "joan baez", "alquin", "roy orbison", "cliff richard", "astrud gilberto",
@@ -120,7 +121,12 @@ ignore_artists = {"beatles", "vannelli", "joan baez", "alquin", "roy orbison", "
                   "todd rundgren", "jemaine jackson", "rare earth", " booker t.", "lynn anderson", " freddie jackson",
                   "style council", "yazz", "maurice white", "patricia paay", " j.j. cale", "jj cale", "badfinger",
                   "barrabas", "wham", "olivia rodrigo", "the babys", "hit explosion", " gladys knight", "the cats",
-                  "kilima hawaiians", "lovin' spoonful", "wim kan"
+                  "kilima hawaiians", "lovin' spoonful", "wim kan", "al jarreau", "karla bonoff", "little river band",
+                  "koos alberts", "gordon lightfoot", "ananta", "blow monkeys", "jj cale", "feargal sharkey",
+                  "roger daltrey", "country gazette", "miller band", "conniff", "lenny kuhr",
+                  "andrew lloyd webber", "bostjan konecnik", "floyd cramer", "dave edmunds", "johan stollz",
+                  "don johnson", "michel legrand", "glenn frey", "iron butterfly", "louis van dijk", "oscar harris",
+
 
                   }
 
