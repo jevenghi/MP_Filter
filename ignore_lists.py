@@ -38,7 +38,7 @@ ignore_sellers = {"de vinylloods", "Who's Your Daddy Records", "Concerto Records
                   "LP Verzameling", "Moshover", "k sauer", "Disc-records+vintage", "NOT DEAD ENOUGH", " More4Less",
                   "U2stay", "Chris", "Into It Records", "nicko-v", "Pieter Vermaas", "Vinyl & Munten", "adriaan",
                   "Qwen", "Nooddienst 24/7", "The Collector", "lisa", "Platen en Co.", "nienke en wullum",
-                  "Plaatwerk Design", "Cassette Digitalisatie", "vinylliefhebber",
+                  "Plaatwerk Design", "Cassette Digitalisatie", "vinylliefhebber", "Kaddy"
 
                   }
 
@@ -53,7 +53,7 @@ ignore_artists = {"beatles", "vannelli", "joan baez", "alquin", "roy orbison", "
                   "billy preston", "chaka khan", "belafonte", "fausto papetti", "mouskouri", "olivia newton",
                   "james last", "jim reeves", "johnny meyer", "chubby checker", "aretha franklin", "ike & tina",
                   "linda ronstadt", "fairport convention", "ink spots", "george-benson", "shirley bassey",
-                  "frank zappa", "perry como", "mahalia jackson", "alison moyet", "kim wilde",
+                  "frank zappa", "perry como", "mahalia jackson", "alison moyet", "kim wilde", "lotus eaters",
                   "electric light orchestra", "vicky leandros", "jim croce", "matt bianco", "petula clark",
                   "kerstmis", "moody blues", "stevie wonder", "roger whittaker", "rory gallagher", "mireille mathieu",
                   "al stewart", "joe bonamassa", "donovan", "paul anka", "dolly parton", "modern talking",
@@ -84,7 +84,7 @@ ignore_artists = {"beatles", "vannelli", "joan baez", "alquin", "roy orbison", "
                   "steve miller", "the runaways", "milli vanilli", "feliciano", "ellen foley" "johnny hallyday",
                   "juliette greco", "oscar peterson", "robert long", "franck pourcel", "irolt", "the walker brothers",
                   "carolyne mas", "nik kershaw", "rick wakeman", "ben webster", "flying burrito", "ry cooder",
-                  "boudewijn de groot", "herbie mann", "maywood", "barrelhouse", "lalo schifrin",
+                  "boudewijn de groot", "herbie mann", "maywood", "barrelhouse", "lalo schifrin", "frank pourcel",
                   "cuby and the blizzards", "stephen stills", "the ritchie family", "bzn", "theodorakis",
                   "mathilde santing", "barry white", "fay lovsky", "ellen foley", "jimi hendrix", "joe jackson",
                   "doris day", "amanda lear", "jacques brel", "billy vaughn", "deodato", "duke ellington",
@@ -126,6 +126,20 @@ ignore_artists = {"beatles", "vannelli", "joan baez", "alquin", "roy orbison", "
                   "roger daltrey", "country gazette", "miller band", "conniff", "lenny kuhr",
                   "andrew lloyd webber", "bostjan konecnik", "floyd cramer", "dave edmunds", "johan stollz",
                   "don johnson", "michel legrand", "glenn frey", "iron butterfly", "louis van dijk", "oscar harris",
+                  "rod mckuen", "jon lord", "alvin lee", "24 carat purple", "dr.hook", "caravelli",
+                  "long tall ernie", "village people", "outlandos d'amour", "reggatta de blanc", "zenyatta mondatta",
+                  "lucille starr", "mama's & papa's", "marti webb", "rita coolidge", "dalida", "catch bull at four",
+                  "frankie goes to hollywood", "alvin stardust", "mary roos", "laura branigan", "glen campbell",
+                  "frank & mirella", "sister sledge", " o'sullivan", "hammond and west", "yazoo", "john spencer",
+                  "righteous brothers", "clouseau", " 461 ocean", "johnny hallyday", "benny neyman",
+                  "clearwater revival", "guys 'n' dolls", "frankie laine", "tee-set", "kid creole", "lene lovich",
+                  "bonnie pointer", "cock robin", "peter alexander", "adamo", "russ ballard", "sweet d'buster",
+                  "sam cooke", "cerrone", "anthony phillips", "freddy breck", "georges brassens", "grace slick",
+                  "gregory isaacs", "harry chapin", "band on the run", "kristy maccoll", "geils band", "sahuleka",
+                  "kiss dynasty", "roy black", "toon hermans", "henk elsink", "average white band", "bruce hornsby",
+                  "jo spears", "jacketti", "david gates", "joe dassin", "be bop deluxe", "aphrodite's child",
+                  "dirty dancing", "anne murray", "paul hardcastle", "mamas and the papas", "tony esposito",
+                  "johnnie ray", "james taylor", "roy buchanan", "bassie & adriaan"
 
 
                   }
