@@ -38,7 +38,7 @@ ignore_sellers = {"de vinylloods", "Who's Your Daddy Records", "Concerto Records
                   "LP Verzameling", "Moshover", "k sauer", "Disc-records+vintage", "NOT DEAD ENOUGH", " More4Less",
                   "U2stay", "Chris", "Into It Records", "nicko-v", "Pieter Vermaas", "Vinyl & Munten", "adriaan",
                   "Qwen", "Nooddienst 24/7", "The Collector", "lisa", "Platen en Co.", "nienke en wullum",
-                  "Plaatwerk Design", "Cassette Digitalisatie", "vinylliefhebber", "Kaddy"
+                  "Plaatwerk Design", "Cassette Digitalisatie", "vinylliefhebber", "Kaddy", "Funk1"
 
                   }
 
@@ -139,9 +139,29 @@ ignore_artists = {"beatles", "vannelli", "joan baez", "alquin", "roy orbison", "
                   "kiss dynasty", "roy black", "toon hermans", "henk elsink", "average white band", "bruce hornsby",
                   "jo spears", "jacketti", "david gates", "joe dassin", "be bop deluxe", "aphrodite's child",
                   "dirty dancing", "anne murray", "paul hardcastle", "mamas and the papas", "tony esposito",
-                  "johnnie ray", "james taylor", "roy buchanan", "bassie & adriaan"
-
-
+                  "johnnie ray", "james taylor", "roy buchanan", "bassie & adriaan", "zamfir", "black uhuru",
+                  "johnny logan", "peter tosh", "natalie cole", "rudolf schock", "the last waltz", "love over gold",
+                  "lloyd price", "henk wijngaard", "ian matthews", "eberhard schoener", "dutch pop giants",
+                  "jim capaldi", "rondo veneziano", "gerard joling", "bollock brothers", "fred stuger",
+                  "bruce cockburn", "smokey robinson", "oldies but goldies", "godley & creme", "the animals",
+                  "miriam makeba", "madman across", "daryl hall", "gram parsons", "crosby, stills", "chieftains",
+                  "deodata", "jon anderson", "mezzoforte", "hair of the dog", "thomas dolby", "strauss family",
+                  "ariana grande", "barry manilow", "mcguinn clark", "jumping jewels", "topographic ocean",
+                  "principle of moments", "queen budokan", "johnny nash", "cor steyn", "andre moss", "mike batt",
+                  "john woodhouse", "prince and the revolution", "peter hammill", "jobriath", "la toya",
+                  "heep wonderworld", "rasa everything", "lambada", "buddy odor", "gentle giant", "santa esmeralda",
+                  "turner overdrive", "fatal flowers", "manzanera", "stealers wheel", "bobby womack", "peter griffin",
+                  "dusty springfield", "chi coltrane", "veronica souvenir", "bobby whitlock", "traveling wilburys",
+                  "crosby and nash", "steppenwolf", "caterina valente", "michael cassidy", "swinging blue jeans",
+                  "thick as a brick", "bohannon", "warm aanbevolen", "bloody tourists", "divinyls", "brian hyland",
+                  "marty robbins", "gladys knight", "zangeres zonder naam", "johnny and the hurricanes",
+                  "sheena easton", "sonny & cher", "bananarama", "porgy and bess", "beegees", "peter schilling",
+                  "highway chile", "sly & the family", "anita baker", "roy ayers", "elkie brooks", "fairport",
+                  "bow wow", "de maskers", "duncan browne", "the who", "leon russell", "platenplankie",
+                  "bobby vinton", "southside johnny", "billy squier", "gary wright", "john cougar", "tol hansse",
+                  "goldsboro", "georgie fame", "greg kihn", "thelma houston", "sutherland brothers",
+                  "harry holland", "golden hit parade", "andre van duin", "lake & palmer", "band last waltz",
+                  "mike rutherford", "richard marx"
                   }
 
 ignore_besellers = {
