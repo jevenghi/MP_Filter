@@ -38,7 +38,8 @@ ignore_sellers = {"de vinylloods", "Who's Your Daddy Records", "Concerto Records
                   "LP Verzameling", "Moshover", "k sauer", "Disc-records+vintage", "NOT DEAD ENOUGH", " More4Less",
                   "U2stay", "Chris", "Into It Records", "nicko-v", "Pieter Vermaas", "Vinyl & Munten", "adriaan",
                   "Qwen", "Nooddienst 24/7", "The Collector", "lisa", "Platen en Co.", "nienke en wullum",
-                  "Plaatwerk Design", "Cassette Digitalisatie", "vinylliefhebber", "Kaddy", "Funk1"
+                  "Plaatwerk Design", "Cassette Digitalisatie", "vinylliefhebber", "Kaddy", "Funk1", "Wilkinson 500ml",
+                  "Piraten Brabant", "Ferans"
 
                   }
 
@@ -161,7 +162,11 @@ ignore_artists = {"beatles", "vannelli", "joan baez", "alquin", "roy orbison", "
                   "bobby vinton", "southside johnny", "billy squier", "gary wright", "john cougar", "tol hansse",
                   "goldsboro", "georgie fame", "greg kihn", "thelma houston", "sutherland brothers",
                   "harry holland", "golden hit parade", "andre van duin", "lake & palmer", "band last waltz",
-                  "mike rutherford", "richard marx"
+                  "mike rutherford", "richard marx", "osmond brothers", "redbone", "cuby + blizzards", "redwing",
+                  "robert cray", "corry & koos", "willy alberti", "dexys midnight", "kingston trio", "elvis forever",
+                  "wilson pickett", "dana gillespie", "saskia & serge", "sonny and cher", "bolland & bolland",
+                  "giuffria", "seals & crofts", "maggie macneal", "jack jersey", "flyin' spiderz", "womack & womack",
+                  "trio hellenique", "garry wirght", "kool & the gang", "winter in america", "gene loves jezebel"
                   }
 
 ignore_besellers = {
